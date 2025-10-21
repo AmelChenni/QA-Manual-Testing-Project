@@ -52,8 +52,9 @@ The goal was to deliver high-quality test artifacts and identify critical defect
 
 ## 📷 Preview  
 
-![Test Case Screenshot](test-cases-1.png)  
-![Bugs Screenshot](bugs-screenshot.png)  
+![Test Case Screenshot](1-app.png)  
+![Bugs Screenshot](2-bug3.png)  
+![Bugs Screenshot](3-bug2.png)  
 ![Certificate Screenshot](certificate.png)
 
 ---

@@ -1,6 +1,6 @@
 # 🛡️ Manual QA Project: To-Do Application (Signup Feature)
 
-🌐 **Project Documentation:** [**Insert your Google Sheet Link here**](https://docs.google.com/spreadsheets/d/1MliztrE7Gfmjawfpu6L-VFE9wZbYD2FSqcDvXYrEEE4/edit?gid=0#gid=0)
+🌐 **Project Documentation:** [**Completed as part of the QACart Manual Testing Bootcamp 2022**](https://docs.google.com/spreadsheets/d/1MliztrE7Gfmjawfpu6L-VFE9wZbYD2FSqcDvXYrEEE4/edit?gid=0#gid=0)
 
 ---
 
